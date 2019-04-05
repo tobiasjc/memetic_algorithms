@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - App",
+			"request": "launch",
+			"mainClass": "bcc.paa.App",
+			"args": "--input ./instances/instancia_30.csv"
+		}
+	]
+}
